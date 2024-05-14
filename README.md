@@ -11,4 +11,4 @@ The following repository contains the code for the Monte Carlo simulation assign
 └── README.md
 ```
 
-
+To get started, download the zip file from green code button on the top right corner of the repository. Unzip the file and open the R project file `EC320S24_sim.Rproj`. This will open the project in RStudio. Open the RMarkdown file `babysteps_sim.Rmd` and compile the document to see if everything is working. 
